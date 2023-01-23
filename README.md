@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Oscar Deus</h1>
 <h3 align="center">A passionate frontend developer from Tanzania</h3>
 <img align = "right" alt="Coding" width ="400" src="https://i.pinimg.com/564x/fd/b6/3c/fdb63c8e5c0c201fccaf55c9fda27d52.jpg">
-<img align = "left" alt="Coding" width ="400" src="https://i.pinimg.com/564x/83/31/25/8331258e543977d6614d4f0f849b3131.jpg">
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscah01&label=Profile%20views&color=0e75b6&style=flat" alt="oscah01" /> </p>
 
@@ -21,7 +19,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/alphonce_isaya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alphonce_isaya" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/oscar-deus-757833210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/oscar-deus-757833210/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/oscar-deus-757833210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oscar-deus-757833210" height="30" width="40" /></a>
 <a href="https://instagram.com/blockchainer01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="blockchainer01" height="30" width="40" /></a>
 </p>
 
