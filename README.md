@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oscar Deus</h1>
 <h3 align="center">A passionate frontend developer from Tanzania</h3>
+<img align = "right" alt="Coding" width ="400" src="https://i.pinimg.com/564x/fd/b6/3c/fdb63c8e5c0c201fccaf55c9fda27d52.jpg">
+<img align = "left" alt="Coding" width ="400" src="https://i.pinimg.com/564x/83/31/25/8331258e543977d6614d4f0f849b3131.jpg">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oscah01&label=Profile%20views&color=0e75b6&style=flat" alt="oscah01" /> </p>
 
