@@ -13,7 +13,7 @@
 
 - 📫 Email me at **bilegraphicsprinters@gmail.com** or connect with me on LinkedIn at **https://www.linkedin.com/in/oscardeus/**
 
-- ⚡ Fun fact **Heavy coffee drinker**
+- ⚡ Fun fact **heavy coffee drinker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
