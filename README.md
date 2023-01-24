@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Oscar Deus</h1>
-<h3 align="left">A passionate frontend developer from Tanzania</h3>
+<h3 align="left">A passionate front-end developer</h3>
 
 ![photos](https://user-images.githubusercontent.com/100070005/214377019-553ef83e-bf5f-4527-b8d3-ae7f085264d4.png)
 
@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software development and Blockchain Technology**
 
-- 📫 How to reach me **bilegraphicsprinters@gmail.com**
+- 📫 Email me at **bilegraphicsprinters@gmail.com**
 
 - ⚡ Fun fact **Heavy coffee drinker**
 
