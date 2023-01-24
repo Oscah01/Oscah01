@@ -1,11 +1,10 @@
 <h1 align="left">Hi 👋, I'm Oscar Deus</h1>
 <h3 align="left">A passionate frontend developer from Tanzania</h3>
-<img align = "center" alt="Coding" width ="400" src="https://i.pinimg.com/564x/fd/b6/3c/fdb63c8e5c0c201fccaf55c9fda27d52.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oscah01&label=Profile%20views&color=0e75b6&style=flat" alt="oscah01" /> </p>
+![photos](https://user-images.githubusercontent.com/100070005/214377019-553ef83e-bf5f-4527-b8d3-ae7f085264d4.png)
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscah01" alt="oscah01" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/alphonce_isaya" target="blank"><img src="https://img.shields.io/twitter/follow/alphonce_isaya?logo=twitter&style=for-the-badge" alt="alphonce_isaya" /></a> </p>
 
 - 🌱 I’m currently learning **React**
