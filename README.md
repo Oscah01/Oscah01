@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Software development** and **Blockchain Technology**
 
-- 📫 Email me at **bilegraphicsprinters@gmail.com** or connect with me on LinkedIn at **https://www.linkedin.com/in/oscardeus/**
+- 📫 Email me at **oscardeus1@yahoo.com** or connect with me on LinkedIn at **https://www.linkedin.com/in/oscardeus/**
 
 - ⚡ Fun fact: **Heavy coffee drinker**
 
