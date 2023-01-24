@@ -7,11 +7,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscah01" alt="oscah01" /></a> </p>
 <p align="left"> <a href="https://twitter.com/alphonce_isaya" target="blank"><img src="https://img.shields.io/twitter/follow/alphonce_isaya?logo=twitter&style=for-the-badge" alt="alphonce_isaya" /></a> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** at **Microverse**, a fully remote software development school.
 
-- 💬 Ask me about **Software development and Blockchain Technology**
+- 💬 Ask me about **Software development** and **Blockchain Technology**
 
-- 📫 Email me at **bilegraphicsprinters@gmail.com**
+- 📫 Email me at **bilegraphicsprinters@gmail.com** or connect with me on LinkedIn at **https://www.linkedin.com/in/oscardeus/**
 
 - ⚡ Fun fact **Heavy coffee drinker**
 
