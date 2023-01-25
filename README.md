@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Oscar Deus</h1>
 <h3 align="left">A passionate front-end developer</h3>
 
-![photos](https://user-images.githubusercontent.com/100070005/214377019-553ef83e-bf5f-4527-b8d3-ae7f085264d4.png)
+![emoji](https://user-images.githubusercontent.com/100070005/214546762-b152abaf-9a5e-4acc-bb61-3b2adede4f2e.gif)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oscah01" alt="oscah01" /></a> </p>
